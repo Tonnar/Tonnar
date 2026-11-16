@@ -2,9 +2,9 @@
 
 I build and debug reinforcement learning agents, and I'm moving from computational biology into AI safety research.
 
-- **Now:** PhD research at Vanderbilt — deep RL agents (DQN variants, TD3, PPO) for placing water molecules in protein electron-density maps
+- **Now:** PhD research at Vanderbilt - using genetics to assess disease risk and in my free time using deep RL agents (DQN variants, TD3, PPO) for placing water molecules in protein electron-density maps
 - **Before:** statistical genetics at the Vanderbilt Memory & Alzheimer's Center (longitudinal PET modeling, GWAS) and Bayesian causal inference in pediatric clinical research
-- **Interested in:** reward design and reward hacking, RL from human feedback, and evaluations
+- **Interested in:** Genetics, epistatis, reward design and reward hacking, and RL
 
 **Selected work**
 - [water-placement-rl](https://github.com/Tonnar/water-placement-rl) — DQN, TD3 and PPO implemented from scratch, with tests
