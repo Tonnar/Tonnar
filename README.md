@@ -1,6 +1,6 @@
 ### Hi, I'm Tonnar
 
-I build and debug reinforcement learning agents, and I'm moving from computational biology into AI safety research.
+I build and debug reinforcement learning agents, and I'm in computational biology with an interest in AI safety research.
 
 - **Now:** PhD research at Vanderbilt - using genetics to assess disease risk and in my free time using deep RL agents (DQN variants, TD3, PPO) for placing water molecules in protein electron-density maps
 - **Before:** statistical genetics at the Vanderbilt Memory & Alzheimer's Center (longitudinal PET modeling, GWAS) and Bayesian causal inference in pediatric clinical research
